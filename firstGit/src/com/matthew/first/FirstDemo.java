@@ -6,13 +6,15 @@ public class FirstDemo {
 		// TODO Auto-generated method stub
 
 		System.out.println(01);
-		/*******************这里是修改的*********************/
+		/*******************脮芒脌茂脢脟脨脼赂脛碌脛*********************/
 		 String a = "1";
 		 String b = "2";
 		 
 		 String string = a + b;
 		 System.out.println(a+b);
 		 System.out.println(string);
+		
+		/*******************杩欐槸鏇存柊*********************/
 		 
 	}
 
