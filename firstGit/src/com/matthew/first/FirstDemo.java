@@ -9,7 +9,11 @@ public class FirstDemo {
 		/*******************这里是修改的*********************/
 		 String a = "1";
 		 String b = "2";
+		 
+		 String string = a + b;
 		 System.out.println(a+b);
+		 System.out.println(string);
+		 
 	}
 
 }
